@@ -3,7 +3,7 @@ Demo datasets for LightSpeed Hackathon Challenge So You Think You Can ML
 
 List of datasets and sources
 
--adult_income.csv: https://www.kaggle.com/datasets/uciml/adult-census-income CC BY 4.0
+- adult_income.csv: https://www.kaggle.com/datasets/uciml/adult-census-income CC BY 4.0
 
 - breast_cancer.csv : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data  CC BY 4.0
 
